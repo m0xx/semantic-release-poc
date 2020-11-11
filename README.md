@@ -8,18 +8,5 @@ branches: ['+([0-9])?(.{+([0-9]),x}).x', 'master', 'next', 'next-major', {name: 
 plugins: ['@semantic-release/commit-analyzer', '@semantic-release/release-notes-generator']
 
 
-# NEw huge BETA feature !!
+# New Breaking change
 
-```
-stable
-1.x.x
-next
-2.x.x
-
-
-```
-v1.0.0
-v1.0.1
-v1.1.0-beta.1
-v2.0.0-beta.1
-v2.0.0-beta.2
