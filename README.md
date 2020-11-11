@@ -10,3 +10,4 @@ plugins: ['@semantic-release/commit-analyzer', '@semantic-release/release-notes-
 
 # New Breaking change
 
+- add note
