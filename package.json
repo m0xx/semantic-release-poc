@@ -1,6 +1,6 @@
 {
   "name": "conventional-commit-poc",
-  "version": "2.0.0",
+  "version": "2.1.0-dev.1",
   "description": "- Prod bug fix - New feature dev -",
   "main": "index.js",
   "scripts": {
